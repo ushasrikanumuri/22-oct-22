@@ -1,0 +1,61 @@
+*{
+	margin: 0%;
+   /* border: 1px solid red;*/
+}
+.navbar{
+	display: flex;
+	background-color: white;
+	align-content: space-around;
+	border: white;
+    padding: 0.2%;
+	margin-right: 5%;
+	margin-top: 0.2%;
+	margin-bottom: 0.1%;
+}
+.navbar a{
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+   	justify-content: space-between;
+	padding: 1%;
+	margin-right:5%;
+}
+.logo{
+	margin: 0% 4% !important;
+}
+#signin{
+	background-color: #00baf2;
+	color: white;
+	border-radius: 25px;
+    border: 2%;
+	margin-left: 1%;
+}
+.kyc{
+	background-color:	#D3D3D3;
+	padding-top:0.2%;
+	padding-bottom: 0.2%;
+	text-align: center;
+
+}
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 7% 10%;
+
+}
+.download-app{
+	background-color: black;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+
+
