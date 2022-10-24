@@ -1,16 +1,41 @@
 *{
 	margin: 0%;
    /* border: 1px solid red;*/
+   font-family: 'Poppins', sans-serif;
+
 }
 .navbar{
+	height: 85px;
+	width: 100%;
 	display: flex;
-	background-color: white;
-	align-content: space-around;
-	border: white;
-    padding: 0.2%;
-	margin-right: 5%;
-	margin-top: 0.2%;
-	margin-bottom: 0.1%;
+}
+.left{
+	width: 15%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 50px;
+}
+.middle{
+	width: 65%;
+	height: 100%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	padding-left: 80px;
+}
+.right{
+	width: 20%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.signin{
+	display: flex;
+
 }
 .navbar a{
 	text-decoration: none;
