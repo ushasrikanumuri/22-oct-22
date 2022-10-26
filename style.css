@@ -99,6 +99,10 @@
 	align-items: space-between;
 	padding: 5% 10% 5% 8%;
 }
+.bills .pay{
+	width: 13%;
+	
+}
 
 .bills a{
 	text-decoration: none;
@@ -110,14 +114,153 @@
 	justify-items: center;
 }
 .sec4 div img{
-	width: 60%;
+	width: 45%;
 }
 .book{
 	display: flex;
 	justify-content: space-between;
 	padding: 5% 10% 5% 8%;
 }
+.book .invest{
+	width: 17%;
+}
 .book a{
 	text-decoration: none;
 	color: white;
+}
+.sec5{
+	background-color:#D3D3D3;
+	padding: 5% 6% 5% 5%;
+}
+.wall .wallet{
+	display: flex;
+	padding: 5% 10%;
+}
+.wall{
+	padding: 3% 5%;
+	background-color: white;
+}
+.store{
+	display: flex;
+	margin-left: 0%;
+	align-items: space-evenly;
+    font-size:19px ;
+}
+.store .img{
+	margin-left: 3%;
+	margin-bottom:10%;
+	margin-top: 1%;
+}
+.download{
+	background-color: black;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.mobile{
+	padding: 3% 5%;
+	background-color: white;
+}
+.mobile .upi{
+	display: flex;
+	padding: 5% 10%;
+}
+
+.any{
+	display: flex;
+	margin-left: 0%;
+	align-items: space-evenly;
+    font-size:19px ;
+}
+.any .imga{
+	margin-left: 3%;
+	margin-bottom:10%;
+	margin-top: 1%;
+}
+.down{
+	background-color: black;
+	color: white;
+	font-size: 10px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.down:hover{
+	background-color: white;
+	color: black;
+}
+.paid .upi{
+	display: flex;
+	padding: 5% 10%;
+}
+.paid{
+	padding: 3% 5%;
+	background-color: white;
+}
+.post{
+	display: flex;
+	margin-left: 0%;
+	align-items: space-evenly;
+    font-size:19px ;
+}
+.post .img{
+	margin-left: 3%;
+	margin-bottom:10%;
+	margin-top: 1%;
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.two{
+	display: flex;
+}
+.bank{
+	padding: 2% 5%;
+	background-color: white;
+}
+.sbi{
+	padding: 2% 5%;
+	background-color: white;
+}
+
+.secure{
+	padding: 3% 5%;
+	background-color: white;
+	display: flex;
+}
+
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 40%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
 }
