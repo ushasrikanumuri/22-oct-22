@@ -128,7 +128,7 @@
 }
 .sec5{
 	background-color:#D3D3D3;
-	padding: 5% 6% 5% 5%;
+	padding: 5% 6% 1% 3%;
 }
 .wall{
 	padding: 5% 10%;
@@ -165,23 +165,24 @@
 	background-color: white;
 	color: black;
 }
-.wall{
+.mobile{
 	padding: 5% 10%;
-	background-color: white;
 }
-.wall .wallet{
+.mobile .upi{
 	display: flex;
 	padding: 5% 5%;
 	background-color: white;
 }
-.line{
+.one{
 	padding-left:7% ;
 	font-size: 20px;
 }
-.online{
+.any{
 	display: flex;
 	padding: 2%;
-}.online .imga .img{
+	background-color: white;
+
+}.any .ime .imgae{
 	font-size: 50px;
 	margin-left: 20%;
 	margin-bottom: 10%;
@@ -200,5 +201,173 @@
 	background-color: white;
 	color: black;
 }
+.paid{
+	padding: 5% 10%;
+}
+.paid .post{
+	display: flex;
+	padding: 5% 5%;
+	background-color: white;
+}
+.way{
+	padding-left:7% ;
+	font-size: 20px;
+}
+.two{
+	display: flex;
+	padding: 2%;
+	background-color: white;
 
+}.two .load .source{
+	font-size: 50px;
+	margin-left: 20%;
+	margin-bottom: 10%;
+}
+.down{
+	background-color: black;
+	color: white;
+	font-size: 17px;
+	width: 90%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.down:hover{
+	background-color: white;
+	color: black;
+}
+.own{
+	padding: 5% 5%;
+}
+.own .bank{
+	padding: 5% 1%;
+	background-color: white;
+}
+.run{
+	padding: 5% 0% 3% 5%;
+}
+.run .sbi{
+	padding: 5% 1%;
+	background-color: white;
+}
+.way{
+	padding-left:2% ;
+	font-size: 20px;
+}
+.don{
+	display: flex;
+}
+.none{
+	display: flex;
+	justify-content: space-between;
+	padding: 3% 0% 9% 10%;
+	font-size: 25px;
+
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.run{
+	background-image:"images/moun.png";
+	display: flex;
+}
+.born{
+	display: flex;
+	justify-content: space-between;
+	padding: 3% 0% 9% 10%;
+	font-size: 25px;
+
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.boat{
+	display: flex;
+	background-color:#D3D3D3 ;
+	justify-content: space-between;
+	padding: 3% 0% 9% 10%;
+	font-size: 25px;
+
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 70%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.sri{
+	display: flex;
+	background-color:#D3D3D3 ;
+	justify-content: space-between;
+	padding: 3% 0% 9% 10%;
+	font-size: 25px;
+
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 60%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.aru{
+	display: flex;
+	background-color:#D3D3D3 ;
+	justify-content: space-between;
+	padding: 3% 0% 9% 10%;
+	font-size: 25px;
+
+}
+.download{
+	background-color: blue;
+	color: white;
+	font-size: 17px;
+	width: 60%;
+	text-align: centre;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
 
